@@ -1,6 +1,6 @@
 # Python-Learning-Notes
 
-Useful step-by-step Python learning notes.
+Step-by-step Python learning notes.
 
 Summer 2020
 
