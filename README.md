@@ -1,6 +1,6 @@
 # Python-Learning-Notes
 
-Useful step-by-step Python learning notes.
+Step-by-step Python learning notes.
 
 Summer 2020
 
@@ -23,3 +23,11 @@ Here is a list of books I found extremely useful:
 - [Beginning Python: From Novice to Professional](https://www.amazon.com/Beginning-Python-Professional-Magnus-Hetland-ebook/dp/B06XGVVVMG) **Digital version available on NYU Library**
 
 - [Python Programming: An Introduction To Computer Science, Third Edition](https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1590282752) **Digital version available on NYU Library**
+
+## Daily Progress
+
+**Day 1**: [05-22-2020](https://github.com/tong-jin-nyu/Python-Learning-Notes/blob/master/Daily%20Progress/Day%201%20(05-22-2020).ipynb)
+
+**Day 2**: [05-23-2020](https://github.com/tong-jin-nyu/Python-Learning-Notes/blob/master/Daily%20Progress/Day%202%20(05-23-2020).ipynb)
+
+**Day 3**: 
