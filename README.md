@@ -30,4 +30,4 @@ Here is a list of books I found extremely useful:
 
 **Day 2**: [05-23-2020](https://github.com/tong-jin-nyu/Python-Learning-Notes/blob/master/Daily%20Progress/Day%202%20(05-23-2020).ipynb)
 
-**Day 3**: 
+**Day 3**: [05-24-2020](https://github.com/tong-jin-nyu/Python-Learning-Notes/blob/master/Daily%20Progress/Day%203%20(05-24-2020).ipynb)
