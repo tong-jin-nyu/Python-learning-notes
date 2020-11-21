@@ -41,3 +41,5 @@ Here is a list of books I found extremely useful:
 **Day 7**: [05-28-2020](https://github.com/tong-jin-nyu/Python-Learning-Notes/blob/master/Daily%20Progress/Day%207%20(05-28-2020).ipynb)
 
 **Day 8**: [05-29-2020](https://github.com/tong-jin-nyu/Python-Learning-Notes/blob/master/Daily%20Progress/Day%208%20(05-29-2020).ipynb)
+
+**Day 9**: [06-03-2020]()
